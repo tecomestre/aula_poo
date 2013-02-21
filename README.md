@@ -1,4 +1,4 @@
 aula_poo
 ========
 
-Exemplo de uso do Git
+Exemplo de uso do Github.
